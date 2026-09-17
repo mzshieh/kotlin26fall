@@ -1,0 +1,128 @@
+# Kotlin Programming, 2026 Spring
+
++   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
++   Teaching Assistants: 
+    +   [Ting-Shiuan Guan](mailto:allen.c@nycu.edu.tw) allen.c@nycu.edu.tw (To be confirmed)
++   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
+
+## Course Objectives
+
++   Learn the fundamentals of Kotlin programming
++   Learn how to develop a simple Android app with Kotlin
+
+## Textbook
+
++ [Kotlin Programming: The Big Nerd Ranch Guide 2nd Edition](https://www.amazon.com/Kotlin-Programming-Ranch-Guide-Guides-dp-0136891055/dp/0136891055)
++ [中文版](https://www.tenlong.com.tw/products/9789864344796?list_name=srh)
+
+## Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/rkoEBa8TT)
++ [Lecture 2](https://hackmd.io/@truckski/SJWrLp8ap)
++ [Lecture 3](https://hackmd.io/@truckski/H1LzySt0p)
++ [Lecture 4](https://hackmd.io/@truckski/H1JzgrYC6)
++ [Lecture 5](https://hackmd.io/@truckski/B1vhuUvZR)
++ [Lecture 6](https://hackmd.io/@truckski/BJ4U5IwZ0)
+
+## 2022 Spring Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/rkMSYDVl9)
++ [Lecture 2](https://hackmd.io/@truckski/BkS91d4eq)
++ [Lecture 3](https://hackmd.io/@truckski/S1fec1wWc)
++ [Lecture 4](https://hackmd.io/@truckski/H1zf6xwW9)
++ [Lecture 5](https://hackmd.io/@truckski/rykBq4xM5)
++ [Lecture 6](https://hackmd.io/@truckski/rklQsElM9)
++ [Lecture 7](https://hackmd.io/@truckski/BJpRJhG75)
++ [Lecture 8](https://hackmd.io/@truckski/B1YzxXHNc)
++ [Lecture 9](https://hackmd.io/@truckski/SJs_lmHV9)
++ [Lecture 10](https://hackmd.io/@truckski/ry_KVvAE5)
++ [Lecture 11](https://hackmd.io/@truckski/SkgR4vRV9)
++ [Android Programming](https://hackmd.io/@truckski/S1GJ8W5U9)
+
+## 2020 Fall Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@truckski/BJbFMT_Hv)
++ [Lecture 2](https://hackmd.io/@truckski/ByliKf28D)
++ [Lecture 3](https://hackmd.io/@truckski/ByVoMISvD)
++ [Lecture 4](https://hackmd.io/@truckski/rJKHjtAwv)
++ [Lecture 5](https://hackmd.io/@truckski/Syi_OhDuP)
++ [Lecture 6](https://hackmd.io/@truckski/B1TkFnwOw)
++ [Lecture 7](https://hackmd.io/@truckski/HJJ2DkbFP)
++ [Lecture 8](https://hackmd.io/@truckski/r1lioE5Kw)
++ [Lecture 9](https://hackmd.io/@truckski/BkI4245FD)
++ [Lecture 10](https://hackmd.io/@truckski/ryTM7s25D)
++ [Lecture 11](https://hackmd.io/@truckski/BkD5wo29P)
+
+## 2020 Fall Exercise
+
++ [Exercise 1](https://hackmd.io/@yuchingtw/By82yIvSw)
++ [Exercise 2](https://drive.google.com/file/d/1V5OUj-BGHrAE1hxt0dlIe5QRoGJFDl1c/view)
++ [Exercise 3](https://drive.google.com/file/d/1GsD0RKXTItXNv_SCkEOe5d0RNIgReRFl/view)
++ [Exercise 4](https://drive.google.com/file/d/12Yb3vTBiu6HWqP3sq4OLRe_QMGoohlmN/view)
+
+## 2020 Fall Android Programming
+
++ [Installation (Mac OS)](https://hackmd.io/@yuchingtw/By5HDQxcw)
++ [Installation (Windows 10)](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rkzf4SW9D)
++ [Reference Course](https://classroom.udacity.com/courses/ud9012)
++ [Lecture 1](https://hackmd.io/@yuchingtw/rkzdumYcD)
++ [Lecture 2](https://hackmd.io/@truckski/B1FZEGrjw)
++ [Lecture 3](https://hackmd.io/@truckski/By2N8Id2P)
+
+## 2020 Spring Lectures and Materials
+
++ [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
++ Lecture notes
+    +   [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/SyIQFblrL)
+    +   [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/H1uBA1RBL)
+    +   [Lecture 3](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/H1sQrQP8U)
+    +   [Lecture 4](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HyYCs7iPI)
+    +   [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Hy7ZLkfuI)
+    +   [Lecture 6](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/r1f4lt2u8)
+    +   [Midterm Project Hints](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJQotn8FL)
+    +   [Lecture 7](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rk7Cos15U)
+    +   [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJ09J0L9U)
+    +   [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJl1EJv9L)
+    +   [Lecture 10](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJXUZTij8)
+    +   [Lecture 11](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/S1Vpo802I)
++ Slides for Android Programming
+    +   [KotlinDemo](https://github.com/lgthbo/KotlinDemo)
+    +   [Slide 01](https://docs.google.com/presentation/d/1w-4_qG849bpAQnSsZvRVNRIraUdIHw2Cwe8tqU4-aLc/)
+    +   [Slide 02](https://docs.google.com/presentation/d/19Uo-eXxBEV3qMivn3WycwK8cZvOEsMoO-0VaO4RtUXk/)
+    +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
+    +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
+
+## Midterm
+
+Computer-based exam with internet and generative AI.
+
+## 2024 Fall Final Project
+
+A simple game: [Specification](https://hackmd.io/@truckski/BJsEAsRXye)
+
+## 2024 Spring Final Project
+
+A simple game app running on Android. The specification will be given four weeks before the deadline.
+- [Specification](https://hackmd.io/@0isyuUu4TOqG52ibBOddVg/SkV1aa626)
+    
+## 2022 Fall Term Poject
+
+Write simple games
+1. Text version Wordle Helper
+    + [Specification](https://hackmd.io/@truckski/H1siUbeHo)
+    + [File Input Sample Code](https://github.com/mzshieh/kotlin22fall/blob/master/midterm_file_input_sample.kt)
+2. Android app: Nerdle mini
+    + [Specification](https://hackmd.io/@truckski/SkLBDAAvo)
+
+## 2022 Spring Term Poject
+
+1. Text version: Nerdle mini
+    + [Specification](https://hackmd.io/@r1235613/Bk34wi6f5)
+    + [Resource](https://hackmd.io/@truckski/HJsGz2zX9)
+2. Android app: Wordle Variants
+    + [Specification](https://hackmd.io/@truckski/BJu2AngDc)
+   
+## Grading Policy
+
++   Pass: Being able to program
++   Fail: Not being able to program
