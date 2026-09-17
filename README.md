@@ -1,4 +1,4 @@
-# Kotlin Programming, 2026 Spring
+# Kotlin Programming, 2026 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
